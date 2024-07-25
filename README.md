@@ -1,10 +1,10 @@
 # CODTECH-Task1
 NAME:-Ayesha Sajid Khan
-COMPAANNY:-CODTECH IT SOLUTIONS
+COMPANY:-CODTECH IT SOLUTIONS
 ID:-CT4PP4789
 DOMAIN:-Python Programming
 DURATION:-JULY 15th to AUGUST 15th
-MENTOR:-NeelaSanthosh Kumar
+MENTOR:-Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 Certainly! The provided Python code defines a simple command-line calculator with basic arithmetic operations. Here's an overview of each component:
